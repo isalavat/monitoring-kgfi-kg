@@ -1,5 +1,5 @@
 # Monitoring-kgfi-kg
-<h3>Web application written in php and javascript.
+<h3>Web application written in php and javascript (March-April 2017).
 The architecture is based on the mvc paternary.
 Allows to monitor the progress and attendance of students. 
 It was designed as a hobby project to gain experience in web application development, 
